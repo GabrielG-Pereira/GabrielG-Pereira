@@ -33,8 +33,8 @@ Sou um engenheiro da computação com uma paixão por resolver problemas complex
 ## Entre em Contato
 
 - 📫 Email: gabriel.gpereira@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/seu-usuario](https://www.linkedin.com/in/gabrielgarciap/)
-- 📝 GitHub: [github.com/seu-usuario](https://github.com/GabrielG-Pereira)
+- 💼 LinkedIn: [linkedin.com/in/gabrielgarciap](https://www.linkedin.com/in/gabrielgarciap/)
+- 📝 GitHub: [github.com/GabrielG-Pereira](https://github.com/GabrielG-Pereira)
 
 ---
 
